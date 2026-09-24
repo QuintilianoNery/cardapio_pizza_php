@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Página de implementação: trata o formulário, cria os objetos e exibe o cardápio.
+ * Página de implementação: trata o formulário básico, cria os objetos e exibe o cardápio.
  */
 
 // Sessão guarda as pizzas adicionadas entre uma requisição e outra
